@@ -44,6 +44,8 @@ According to the docs, ";" is a comment, "mov" is move, "end" ends the program. 
 end
 ```
 
-## Phase 3: The battle ⚔️
+## Phase 3: La Batalla  ⚔️
+![battle](https://cdn.discordapp.com/attachments/803021452797411348/1087122187372204052/image.png)
 
-
+He may have lost all those rounds, but in my eyes, he will always be a champion
+GG 🎮
