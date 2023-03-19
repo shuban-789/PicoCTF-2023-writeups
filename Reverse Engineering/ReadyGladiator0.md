@@ -1,4 +1,4 @@
-# PicoCTF 2023 Reverse Engineering: Ready Gladiator 0
+# PicoCTF 2023 Reverse Engineering: Ready Gladiator 0 - 100 points
 
 ## Background
 PicoCTF is an annual cybersecurity competition held by professionals from Carnegie Mellon University which challenges competitors’ problem solving skills with various tasks with the objective to obtain a flag to get points. Each task has a slight description, followed with an instance button or a file. With the goal in mind of getting the flag, the competitor must exploit computer related vulnerabilities to extract the flag even though it may seem impossible at first in some cases.
