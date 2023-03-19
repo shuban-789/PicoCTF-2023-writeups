@@ -36,7 +36,7 @@ First to understand what our warrior code did, I went to the documentation (http
 mov 0, 1
 end
 ```
-According to the docs, ";" is a comment, mov is move, end ends the program. Without even knowing what mov does, what if we made a program that just ended. Ergo, here is our champ:
+According to the docs, ";" is a comment, "mov" is move, "end" ends the program. Without even knowing what mov does, what if we made a program that just ended. Ergo, here is our champ:
 ```
 ;redcode
 ;name good sport
