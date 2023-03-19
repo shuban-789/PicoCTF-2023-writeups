@@ -8,6 +8,7 @@ Scenario and important info
 ![glad2](https://cdn.discordapp.com/attachments/803021452797411348/1087124683201204264/image.png)
 
 Free hint!
+
 ![hint](https://cdn.discordapp.com/attachments/803021452797411348/1087125696901558352/image.png)
 
 Same thing as Ready Gladiator 0 but now we want to beat the pulp out of our opponent
