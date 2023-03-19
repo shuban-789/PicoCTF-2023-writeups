@@ -43,7 +43,7 @@ Now, we must let it run, and direct it to a file. In the mean time we can intens
 
 ![script](https://cdn.discordapp.com/attachments/803021452797411348/1087135513661673472/image.png)
 
-![tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
+https://www.youtube.com/watch?v=btPJPFnesV4
 
 A few minutes have passed. It is time for the moment of truth.
 
