@@ -28,15 +28,7 @@ When in doubt, we use Google.
 * This is basically our code battling the imp, which is a type of warrior
 
 ## Phase 2: Building our loser
-First to understand what our warrior code did, I went to the documentation (https://corewar-docs.readthedocs.io/en/latest/). This is our opponent:
-```
-;redcode
-;name Imp Ex
-;assert 1
-mov 0, 1
-end
-```
-According to the docs, ";" is a comment, "mov" is move, "end" ends the program. Without even knowing what mov does, what if we made a program that just ended. Ergo, here is our champ:
+First to understand what our warrior code did, I went to the documentation (https://corewar-docs.readthedocs.io/en/latest/). According to the docs, ";" is a comment, "mov" is move, "end" ends the program. Without even knowing what mov does, what if we made a program that just ended. Ergo, here is our champ:
 ```
 ;redcode
 ;name good sport
