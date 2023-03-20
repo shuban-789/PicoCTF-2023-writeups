@@ -3,7 +3,7 @@
 ## Background 
 PicoCTF is an annual cybersecurity competition held by professionals from Carnegie Mellon University which challenges competitors’ problem solving skills with various tasks with the objective to obtain a flag to get points. Each task has a slight description, followed with an instance button or a file. With the goal in mind of getting the flag, the competitor must exploit computer related vulnerabilities to extract the flag even though it may seem impossible at first in some cases.
 
-## Ready Gladiator 2 intro (WARNING: I highly reccomend you ready the writeups for Ready Gladiator problems 0 and 1):
+## Ready Gladiator 2 Intro (WARNING: I highly reccomend you ready the writeups for Ready Gladiator problems 0 and 1):
 ![scenario](https://cdn.discordapp.com/attachments/803021452797411348/1087130159909441586/image.png)
 
 So we are back at it again, except we need to win 100 times
@@ -48,5 +48,7 @@ Eye of the Tiger - Survivor  https://www.youtube.com/watch?v=btPJPFnesV4
 A few minutes have passed. It is time for the moment of truth.
 
 ![flag](https://cdn.discordapp.com/attachments/803021452797411348/1087136034611007619/image.png)
+
+It's beautiful 🥲
 
 GG 🎮
