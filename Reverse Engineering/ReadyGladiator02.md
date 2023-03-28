@@ -91,6 +91,3 @@ A few minutes have passed. It is time for the moment of truth.
 
 ![flag](https://cdn.discordapp.com/attachments/803021452797411348/1087136034611007619/image.png)
 
-It's beautiful 🥲
-
-GG 🎮
