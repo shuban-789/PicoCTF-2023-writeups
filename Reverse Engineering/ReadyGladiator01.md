@@ -32,5 +32,3 @@ bmb   dat.f   <2667,    <2*2667
 
 ## Phase 2: Ez dubs
 ![dub](https://cdn.discordapp.com/attachments/803021452797411348/1087127755721822310/image.png)
-
-GG 🎮
