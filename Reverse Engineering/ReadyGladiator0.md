@@ -40,5 +40,3 @@ end
 ![battle](https://cdn.discordapp.com/attachments/803021452797411348/1087122187372204052/image.png)
 
 He may have lost all those rounds, but in my eyes, he will always be a champion
-
-GG 🎮
