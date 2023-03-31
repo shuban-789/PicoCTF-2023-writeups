@@ -11,7 +11,11 @@ PicoGym - https://play.picoctf.org/practice
 
 ## Completed Challenges
 Binary Exploitation - 3/7 challenges
+
 Reverse Engineering - 6/9 challenges
+
 Forensics - Did not attempt
+
 Cryptography - 3/7 challenges
+
 Web Exploitation - Did not attempt
