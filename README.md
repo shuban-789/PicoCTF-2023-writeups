@@ -14,6 +14,8 @@ PicoGym - https://play.picoctf.org/practice
 ### We placed 86th Nationally. (Team Pico Papi)
 Props to my teammates for solving problems in some categories I did not know how to do :D (like web exploitation :< )
 
+![team](https://cdn.discordapp.com/attachments/1085422894756147232/1091571447601844234/image.png)
+
 Binary Exploitation - 3/7 challenges
 
 Reverse Engineering - 6/9 challenges
