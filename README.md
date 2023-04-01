@@ -10,12 +10,16 @@ PicoCTF website - https://picoctf.org/
 PicoGym - https://play.picoctf.org/practice
 
 ## Completed Challenges
+
+### We placed 86th Nationally. (Team Pico Papi)
+Props to my teammates for solving problems in some categories I did not know how to do :D (like web exploitation :< )
+
 Binary Exploitation - 3/7 challenges
 
 Reverse Engineering - 6/9 challenges
 
-Forensics - Did not attempt
+Forensics - None
 
 Cryptography - 3/7 challenges
 
-Web Exploitation - Did not attempt
+Web Exploitation - None
