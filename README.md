@@ -1,3 +1,7 @@
+# 2024 Update
+The hosting for the images has been deleted, still working on fixing this by redoing the problems. 
+My picoctf name has changed from `Lord_Hyperion789` to `shubuntu`
+
 # PicoCTF-2023
 This repository contains my writeups for some of the problems I have solved in the 2023 PicoCTF competition. If you have any questions, feel free to reach out to me on discord. My Tag is `Hyperion#3326`
 
